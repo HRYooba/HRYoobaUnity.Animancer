@@ -1,0 +1,14 @@
+{
+  "name": "com.hryooba.library.animancer",
+  "displayName": "HRYoobaLibrary.Animancer",
+  "version": "1.0.0",
+  "unity": "2021.2",
+  "description": "Unity HRYooba Library\nAnimancer Extentions",
+  "author": {
+    "name": "HRYooba"
+  },
+  "type": "library",
+  "dependencies": {
+    "com.cysharp.unitask": "2.3.3"
+  }
+}
