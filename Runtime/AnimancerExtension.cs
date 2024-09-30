@@ -4,7 +4,7 @@ using Cysharp.Threading.Tasks;
 using UnityEngine;
 using Animancer;
 
-namespace HRYooba.Library
+namespace HRYooba.Animancer
 {
     public static class AnimancerExtension
     {

@@ -1,7 +1,7 @@
 {
-  "name": "com.hryooba.library.animancer",
-  "displayName": "HRYoobaLibrary.Animancer",
-  "version": "1.0.6",
+  "name": "com.hryooba.animancer",
+  "displayName": "HRYooba.Animancer",
+  "version": "2.0.0",
   "unity": "2021.2",
   "description": "Unity HRYooba Library\nAnimancer Extentions",
   "author": {
